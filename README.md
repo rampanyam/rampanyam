@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 - 👋 Hi, I’m Raghu, you can find me on Github by the name of @rampanyam. 
 - 👀 I’m interested in pursuing a career in the field of Data Science / Analytics.
 - 🌱 Currently, I'm working as a Data Engineer, since the last two years, in Melbourne, Australia
