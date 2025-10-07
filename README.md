@@ -2,7 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-- 👋 Hi, I’m Raghuram Panyam, you can find me on Github by the name of @rampanyam. 
+- 👋 Hi, I’m Raghuram Panyam, you can find me on Github by the name of @rampanyam.
+- 🌱 I love SQL.
 - 👀 I’m interested in pursuing a career in the field of Data Engineering
 - 🌱 Currently, I'm working as a Data Engineer, for about four years in Melbourne, Australia.
 - 🌱 I’m a Data Science postgraduate student from Monash University Melbourne, with over two and a half year's of industry experience, ranging from customer service, sales to Data Engineering.
